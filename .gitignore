@@ -81,3 +81,7 @@ crashlytics-build.properties
 *.meta
 *.meta
 *.meta
+*.blend1
+*.blend
+*.fbx
+*.obj
